@@ -5,7 +5,7 @@ const prevBtn = document.getElementById("prev__btn");
 const playBtn = document.getElementById("play__btn");
 const nextBtn = document.getElementById("next__btn");
 const forward10Btn = document.getElementById("forward10Sec");
-const volumeBtn = document.querySelector(".volume i");
+
 
 const songEl = document.getElementById("song");
 const imageEl = document.getElementById("song__image");
